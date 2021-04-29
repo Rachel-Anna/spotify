@@ -1,0 +1,25 @@
+{
+  "name": "sass-boilerplate",
+  "version": "1.0.0",
+  "description": "This is a sample project using the [7-1 architecture pattern](http://sass-guidelin.es/#architecture) and sticking to [Sass Guidelines](http://sass-guidelin.es) writing conventions.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rachel-Anna/sass-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rachel-Anna/sass-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Rachel-Anna/sass-boilerplate#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.32.11"
+  }
+}
